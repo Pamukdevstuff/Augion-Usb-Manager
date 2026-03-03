@@ -2,20 +2,20 @@
 
 A small tool for managing USBs on Windows.
 
-Mit Augion kannst du deine USB-Laufwerke überwachen, ein wenig benchmarken und ein paar grundlegende Informationen abrufen — ohne viel Schnickschnack.
+With Augion, you can monitor your USB drives, perform basic benchmarking and retrieve a few simple pieces of information – without any unnecessary frills.
 
 🚀 Features:
 
-Live USB dashboard: Displays your drive usage in real time.
+Live USB dashboard: Shows usage of your drives in real time.
 
-USB overview: View all connected drives at a glance with name, file system, and used storage.
+USB overview: All connected drives at a glance with name, file system and used storage.
 
 Benchmark: Test your write and read speeds.
 
-Analyse: Count files and folders on a drive.
+Analysis: Count files and folders on a drive.
 
-Umschalten des Write Cache (Admin-Rechte erforderlich).
+Switch Write Cache (admin required).
 
 Dark, simple interface that doesn't hurt your eyes when looking at the terminal.
 
-Automatische Aktualisierung alle 5 Sekunden.
+Automatic update every 5 seconds.
